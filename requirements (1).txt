@@ -1,0 +1,10 @@
+# Core speech detection and WAV loading
+silero-vad
+numpy
+torch
+
+# Optional transcription / planned filler-word detection
+# Installed now, but the current editor does not yet call it.
+faster-whisper
+
+# FFmpeg is a separate system executable, not a pip dependency.
